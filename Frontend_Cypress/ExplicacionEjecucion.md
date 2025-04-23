@@ -65,3 +65,7 @@ ______
 <p align="center">
   <img src="/Frontend_Cypress/Imagenes/resultado_demo.png">
 </p>
+
+<p style="text-align: justify;">De esta forma podemos ver una ejecución de una prueba automatizada con cypress</p>
+
+### <p align="justify"> **Muchas gracias** </p>
