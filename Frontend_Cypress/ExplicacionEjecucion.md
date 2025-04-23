@@ -32,6 +32,8 @@ ______
   <img src="/Frontend_Cypress/Imagenes/navegador_e2e.PNG">
 </p>
 
+### <p align="justify"> **Ejecución Login en Gmail** </p>
+
 <p style="text-align: justify;">4. Primero haremos la prueba de Gmail la cual consiste en hacer un login en la pagina de Gmail, damos clic en el archivo y vemos como se ejecuta, ver imagen: </p>
 
 <p align="center">
@@ -42,4 +44,24 @@ ______
 
 <p align="center">
   <img src="/Frontend_Cypress/Imagenes/resultado_gmail.png">
+</p>
+
+### <p align="justify"> **Ejecución Login en Demo** </p>
+
+<p style="text-align: justify;">5. Ahora haremos la prueba de login en el demo de la pagina orangehrm, damos clic en el archivo y vemos como se ejecuta, ver imagen: </p>
+
+<p align="center">
+  <img src="/Frontend_Cypress/Imagenes/ejecucion_demo.PNG">
+</p>
+
+<p style="text-align: justify;">vemos como realizo su login de forma exitosa, ver imagen: </p>
+
+<p align="center">
+  <img src="/Frontend_Cypress/Imagenes/exitoso_demo.PNG">
+</p>
+
+<p style="text-align: justify;">Al lado izquierdo de la pantalla podemos ver el paso a paso de la ejecución de la prueba, ver imagen: </p>
+
+<p align="center">
+  <img src="/Frontend_Cypress/Imagenes/resultado_demo.png">
 </p>
