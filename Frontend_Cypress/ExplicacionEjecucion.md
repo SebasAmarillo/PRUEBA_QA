@@ -8,4 +8,8 @@ ______
 - Tener instalado Cypress.
 - Tener instalado Node.js.
 
+<p style="text-align: justify;">2. Luego de descomprimir la carpeta abrimos Visual Studio Code y abrimos la carpeta donde podemos visualizar los archivos gmail.cy.js y logindemo.cy.j los cuales son los que debemos ejecutar para ver la prueba a realizar, ver la siguiente imagen: </p>
 
+<p align="center">
+  <img src="/Imagenes/archivos.png">
+</p>
