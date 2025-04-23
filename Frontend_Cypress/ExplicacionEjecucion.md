@@ -13,3 +13,9 @@ ______
 <p align="center">
   <img src="/Frontend_Cypress/Imagenes/archivos.PNG">
 </p>
+
+<p style="text-align: justify;">3. Ahora debemos ejecutar el comando npx cypress open en la terminal de Visual Studio Code con el fin de abrir la interfaz gráfica de Cypress para su ejecución, ver imagen: </p>
+
+<p align="center">
+  <img src="/Frontend_Cypress/Imagenes/coman_consol.png">
+</p>
