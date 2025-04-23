@@ -11,5 +11,5 @@ ______
 <p style="text-align: justify;">2. Luego de descomprimir la carpeta abrimos Visual Studio Code y abrimos la carpeta donde podemos visualizar los archivos gmail.cy.js y logindemo.cy.j los cuales son los que debemos ejecutar para ver la prueba a realizar, ver la siguiente imagen: </p>
 
 <p align="center">
-  <img src="Frontend_Cypress/Imagenes/archivos.png">
+  <img src="Frontend_Cypress/Imagenes/archivos.PNG">
 </p>
