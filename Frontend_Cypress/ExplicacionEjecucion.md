@@ -11,7 +11,7 @@ ______
 <p style="text-align: justify;">2. Luego de descomprimir la carpeta abrimos Visual Studio Code y abrimos la carpeta donde podemos visualizar los archivos gmail.cy.js y logindemo.cy.j los cuales son los que debemos ejecutar para ver la prueba a realizar, ver la siguiente imagen: </p>
 
 <p align="center">
-  <img src="/Frontend_Cypress/Imagenes/archivos.PNG">
+  <img src="/Frontend_Cypress/Imagenes/archivos.png">
 </p>
 
 <p style="text-align: justify;">3. Ahora debemos ejecutar el comando npx cypress open en la terminal de Visual Studio Code con el fin de abrir la interfaz gráfica de Cypress para su ejecución, ver imagen: </p>
