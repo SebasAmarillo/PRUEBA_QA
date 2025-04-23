@@ -19,7 +19,7 @@ ______
 
 - newman run PruebaTecnica.postman_collection.json -e Automation.postman_environment.json
 
-<p style="text-align: justify;">Después de ejecutar el comando podemos visualizar en la terminal el resultado de la ejecución de la prueba, mostrando la cantidad de request e interacciones enviadas, de igual forma muestra un cuadro con el resumen de las pruebas éxitos y fallidas si hubo, ver imagen: </p>
+<p style="text-align: justify;">Después de ejecutar el comando podemos visualizar en la terminal el resultado de la ejecución de la prueba, mostrando la cantidad de request e interacciones enviadas, de igual forma muestra un cuadro con el resumen de las pruebas exitosas y fallidas si hubo, ver imagen: </p>
 
 ### <p align="justify"> **Ejecución en terminal** </p>
 
