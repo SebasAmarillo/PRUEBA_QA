@@ -15,7 +15,7 @@ ______
 - npm install -g newman
 - npm install -g newman-reporter-htmlextra
 
-<p style="text-align: justify;">2. Luego debemos abrir una terminal en la ubicación donde tenemos los archivos descargados anteriormente y ejecutar el comando siguiente comando: </p>
+<p style="text-align: justify;">2. Luego debemos abrir una terminal en la ubicación donde tenemos los archivos descargados anteriormente y ejecutar el siguiente comando: </p>
 
 - newman run PruebaTecnica.postman_collection.json -e Automation.postman_environment.json
 
