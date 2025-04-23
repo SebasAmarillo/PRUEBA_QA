@@ -2,7 +2,7 @@ Angel Sebastian Amarillo Delgado.
 
 # <p align="center"> **PRUEBA AUTOMATIZADA CON POSTMAN+NEWMAN** </p>
 ______
-<p style="text-align: justify;">La ejecución de esta prueba será a un api con el fin de crear, modificar, consultar y eliminar un usuario.</p>
+<p style="text-align: justify;">La ejecución de esta prueba será de un api con el fin de crear, modificar, consultar y eliminar un usuario.</p>
 
 <p style="text-align: justify;">1 Se debe descargar los archivos Automation.postman_environment.json y PruebaTecnica.postman_collection.json, luego guardar los dos en una carpeta del ordenador, se debe contar con los siguientes prerrequisitos para continuar con la ejecución: </p>
 
